@@ -15,5 +15,6 @@ Each content / cell in the table can be modified by clicking on the desired cell
 ![demo_ss](https://user-images.githubusercontent.com/72825756/133473890-404c031f-f061-4482-ab89-3741d9e69768.PNG)
 
 
+Other products can be added to the database, deleted, modified, saved, a new file can be opened and the database can be reset from the beginning.
 
 This is the first task in JavaFX.
