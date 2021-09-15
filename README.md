@@ -8,6 +8,8 @@ This interface provides us with several filters, such as the button to add, dele
 
 Also the products can be sorted ascending or descending after each column.
 
+Each content / cell in the table can be modified by clicking on the desired cell, then after changing with the desired data press the enter button to remain saved in the database.
+
 
 
 
