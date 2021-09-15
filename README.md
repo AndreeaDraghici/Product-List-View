@@ -17,7 +17,7 @@ Each content / cell in the table can be modified by clicking on the desired cell
 
 Other products can be added to the database, deleted, modified, saved, a new file can be opened and the database can be reset from the beginning.
 
-At first the data is entered into the database directly from the program, using the get and set properties, then a new product can be added by the user
+At first the data is entered into the database directly from the program, using the get and set properties, then a new product can be added by the user.
 
 After each change made, a message will appear in the console confirming that the desired choice has been made successfully.
 
