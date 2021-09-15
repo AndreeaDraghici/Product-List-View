@@ -1,5 +1,4 @@
 # Product-List-View
-Product List View in JavaFX
 
 Product List View developed using JavaFX, OOP, and CSS for style.
 ---------------------------
