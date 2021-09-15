@@ -1,0 +1,27 @@
+.root{
+   -fx-background-color: #008;
+   -fx-font-size: 12pt;
+   -fx-padding: 10;
+}
+
+.button {
+   -fx-background-color: red;
+   -fx-text-fill: white;
+   -fx-font: "bold";
+   -fx-border-color: #FFD700;
+   -fx-border: 10;
+}
+
+.label {
+  -fx-background-color: #FFD700;
+  -fx-text-fill: black;
+  -fx-font-size:16;
+  -fx-border-radius: 5;
+  -fx-border: black;
+}
+
+
+
+
+
+
