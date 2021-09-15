@@ -17,4 +17,6 @@ Each content / cell in the table can be modified by clicking on the desired cell
 
 Other products can be added to the database, deleted, modified, saved, a new file can be opened and the database can be reset from the beginning.
 
+After each change made, a message will appear in the console confirming that the desired choice has been made successfully.
+
 This is the first task in JavaFX.
