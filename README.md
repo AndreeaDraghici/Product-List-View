@@ -4,6 +4,7 @@ Product List View in JavaFX
 Product List View developed using JavaFX, OOP, and CSS for style.
 ---------------------------
 
+This interface provides us with several filters, such as the button to add, delete, save, exit, open and reset the product table.
 
 
 
