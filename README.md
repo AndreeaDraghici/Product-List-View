@@ -17,8 +17,19 @@ Each content / cell in the table can be modified by clicking on the desired cell
 
 Other products can be added to the database, deleted, modified, saved, a new file can be opened and the database can be reset from the beginning.
 
+![reset all](https://user-images.githubusercontent.com/72825756/133476950-4060b721-49cc-4fcc-afe7-5a36b8ad3893.PNG)
+
+
 At first the data is entered into the database directly from the program, using the get and set properties, then a new product can be added by the user.
 
 After each change made, a message will appear in the console confirming that the desired choice has been made successfully.
+
+
+![add](https://user-images.githubusercontent.com/72825756/133476981-b0cbb74c-4311-456f-a854-6b14c693b52a.PNG)
+
+
+![succes](https://user-images.githubusercontent.com/72825756/133476998-874b251e-bece-4c40-b2c9-a3de2ded553b.PNG)
+
+
 
 This is the first task in JavaFX.
