@@ -32,4 +32,3 @@ After each change made, a message will appear in the console confirming that the
 
 
 
-This is the first task in JavaFX.
